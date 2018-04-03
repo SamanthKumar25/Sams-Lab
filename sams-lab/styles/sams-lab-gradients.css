@@ -1,0 +1,128 @@
+
+
+.gradientCard{
+	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 100%;
+    height:20em;
+    
+}
+h4{
+	font-weight: bolder;
+}
+.gradientcard:hover{
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+.ibiza{
+	background: linear-gradient(to right,#0fb8ad 0%, #1fc8db 51%, #2cb5e8 75%)
+}
+.springfield{
+	background: linear-gradient(to right,  #38A32A	,#A8F300)
+}
+.iPhoneX{
+	background: linear-gradient(to right, #FC466B, #3F5EFB)
+}
+.love{
+	background: linear-gradient(to right, #FF3503,#E60000)
+}
+.blueeyes{
+	background: linear-gradient(to right, #005AA7, #F0FFFF)
+}
+.banana{
+	background: linear-gradient(to right, #FFE135, #FAE7B5)
+}
+.azurebolt{
+	background: linear-gradient(to right, #007FFF, #00B9FB)
+}
+.caramel{
+	background: linear-gradient(to right, #FFB200, #3F000F),#F5F5F5}
+.frenchrose{
+	background: linear-gradient(to right, #FF00FF, #F64A8A)
+}
+.northernlights{
+	background: linear-gradient(to right, #00DEA4,#FF00FF)
+}
+.royalblue{
+	background: linear-gradient(to right, #002366,#0038A8)
+}
+.topaz{
+	background: linear-gradient(to right, #746CC0,#FFC87C)
+}
+.vampire{
+background: linear-gradient(to right, #080808,#C80815)
+}
+.mrgrey{
+background: linear-gradient(to right, #708090,#8C92AC)
+}
+.woods{
+background: linear-gradient(to right, #106B4A,#A75502)
+}
+.vlam{
+background: linear-gradient(to right, #74BBFB,#64E986)
+}
+.firefox{
+background: linear-gradient(to right, #FE5A1D,#FFDF46)
+}
+.veronica{
+background: linear-gradient(to right, #A020F0,#FF00FF)
+}
+.greywolf{
+background: linear-gradient(to right, #DBD7D2,#808080)
+}
+.spiderman{
+background: linear-gradient(to right, #FD0E35,#0033AA)
+}
+.twiscan{
+background: linear-gradient(to right, #26A7DE,#FAD6A5)
+}
+.barbie{
+background: linear-gradient(to right, #E0218A,#FF91AF)
+}
+.tealtufts{
+background: linear-gradient(to right, #008080,#3E8EDE)
+}
+.violin{
+background: linear-gradient(to right, #664228,#592720)
+}
+.weeble{
+background: linear-gradient(to right, #1F8EED,#FF9A00)
+}
+.vivid{
+background: linear-gradient(to right, #FF9900,#A6D608,#00CC33)
+}
+.minion{
+background: linear-gradient(to right, #FFDF00,#0018A8)
+}
+.snowfall{
+background: linear-gradient(to right, #A0E6FF,#FFFFFF)
+}
+.disco{
+background: linear-gradient(to right, #8F00FF,#A8F300)
+}
+.ironwill{
+background: linear-gradient(to right, #483C32,#8B8589)
+}
+.shappire{
+background: linear-gradient(to right, #553592,#0070FF,#1974D2)
+}
+.bw{
+background: linear-gradient(to right, #000000,#F5F5F5)
+}
+.jadeblue{
+background: linear-gradient(to right, #00A86B,#8AB9F1)
+}
+.strawberry{
+background: linear-gradient(to right, #C83F49,#FF2400)
+}
+.imperial{
+background: linear-gradient(to right, #002395,#091F92)
+}
+.sandal{
+background: linear-gradient(to right, #D1913C,#FDD9B5)
+}
+
+
+
+
+
+

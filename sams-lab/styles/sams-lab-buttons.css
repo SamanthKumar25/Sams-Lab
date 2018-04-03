@@ -1,0 +1,19 @@
+.buttonCard{
+	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 100%;
+    height:20em;
+    
+}
+h4{
+	font-weight: bolder;
+}
+.buttonCard:hover{
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.butto{
+
+background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+con
+}

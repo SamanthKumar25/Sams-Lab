@@ -1,0 +1,98 @@
+nav{
+	margin-top: 20px;
+	background-color: #bf00ff;
+}
+nav :hover{
+	color: white;
+}
+
+.navbar-brand{
+	font-family: verdana,helvetica;
+	font-weight: bolder;
+	font-size: 35px;
+	color: white;
+}
+
+.nav > li a{
+ color: black;
+ font-size: 17px;
+}
+.nav > li a:hover {
+    background-color: dodgerblue;
+
+}
+
+.dropdown:hover  .dropdown-menu{
+	display: block;
+}
+.dropdown:hover .dropdown-menu {
+  -webkit-transform: scale(1, 1);
+transform: scale(1, 1); 
+}
+
+.dropdown-menu {
+  -webkit-transform-origin: top;
+  transform-origin: top;
+  -webkit-animation-fill-mode: forwards;  
+  animation-fill-mode: forwards; 
+  -webkit-transform: scale(1, 0);
+  display: block;
+  
+  transition: all 0.2s ease-out;
+  -webkit-transition: all 0.2s ease-out;
+}
+
+.carousel{
+	
+	position: relative;
+
+}
+.carousel .item{
+	height: 800px;
+}
+.jumbotron{
+	background-color: peach;
+}
+.projects{
+	height:600px;
+}
+.footer{
+	background-color: darkgrey;
+	height: 100px;
+	text-align: center;
+	}
+.footer-link a{
+	padding: 10px;
+	font-size: 16px;
+}
+.col-sm-12{
+	margin-top: 50px;
+}
+.gradientCard{
+	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 100%;
+    height:20em;
+    background: linear-gradient(to right,#0fb8ad 0%, #1fc8db 51%, #2cb5e8 75%)
+}
+.gradientcard:hover{
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+.buttonCard{
+	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 100%;
+    height:20em;
+}
+.buttonCard:hover{
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+.animationCard{
+box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 100%;
+    height:20em;
+}
+.animationCard:hover{
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
